@@ -1,0 +1,68 @@
+- 👋 Hi, I’m @zeraNgs @clan = Wei5eGruezet
+- 🌱 I’m currently learning more about powercord/discord/computers/code/csgo/r6siege/bfv/bf7/warzone/vanguard 
+- 💞️ I’m looking to collaborate on someone thats making plugins for powercord or working on powercord
+- 📫 How to reach me ... @txt = +3548889931 / @discord = Wei5eGruezeZRNG#5933 / @youtube = /channel/UCko3hjgxgmmr_tmlGbrsitw
+ /
+
+<!--- zeraNgs/zeraNgs is a ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.<!--- 
+
+Installation part for powercord is 
+
+Installing Powercord
+Prerequisites
+git – https://git-scm.com/downloads
+node and npm (v10.0.0 or later; LTS is recommended*) – https://nodejs.org
+Discord Canary (Powercord will only work with Canary!)
+macOS: https://discord.com/api/download/canary?platform=osx
+Windows: https://discord.com/api/download/canary?platform=win
+Linux (deb): https://discord.com/api/download/canary?platform=linux
+Linux (tar.gz): https://discord.com/api/download/canary?platform=linux&format=tar.gz
+Note: You cannot have both Powercord and another client mod injected at the same time. If you have one installed, you must first uninstall it from your Discord Canary installation before proceeding to installation.
+
+Installation
+Here we will assume that you have correctly installed ‘Git’ and ‘Node’ and are using ‘Discord Canary’. It is also worth mentioning that if you are on Linux, we highly recommend that you leave Discord Canary running while going through Steps 1 and 2.
+
+Open a command prompt / terminal of your choice (e.g. CMD if you’re on Windows, or Terminal if you’re using Linux / macOS) - Windows users: please do NOT select “Run as an Administrator” as Powercord will fail to inject if you do so.
+In chronological order, type each of these commands into the same command prompt / terminal opened in Step 1:
+git clone https://github.com/powercord-org/powercord
+cd powercord
+npm i
+npm run plug (Linux users: you’ll need to run this command with sudo)
+Completely “kill” your Discord Client (right-click in the System Tray -> “Quit DiscordCanary”).
+Start Discord back up and Powercord should be injected!
+Uninstallation
+Open a command prompt / terminal of your choice.
+Navigate to your existing Powercord installation (e.g. cd powercord).
+Type npm run unplug (Linux users: you’ll need to run this command with sudo)
+Completely “kill” your Discord Client (right-click in the System Tray -> “Quit DiscordCanary”).
+Start Discord back up and Powercord should no longer be injected.
+IMPORTANT: Make sure to do this BEFORE deleting Powercord's files, or else you’ll risk ending up with a corrupted Discord installation!
+
+Walkthrough
+The following preview shows how to install Powercord on a Windows device. However, the installation process remains similar, if not the same on other platforms.
+
+
+
+
+
+DOWNLOAD LINKS
+-----------------------------------------------------------------------------
+1. PowercordPluginDownloader: https://pastebin.com/Ac44UKZ8
+(YOU WILL NEED TO COPY THE CONTENTS OF THE PASTEBIN INTO COMMAND PROMPT JUST LIKE THE VIDEO SHOWS)
+2. PowercordThemeDownloader: https://github.com/ploogins/Powercord...
+3. bdCompat: https://github.com/Juby210/bdCompat
+4. userNotifs: https://github.com/RazerMoon/userNotifs
+5. muteNewGuild: https://github.com/RazerMoon/muteNewG...
+6. grammar-nazi: https://github.com/VenPlugs/grammar-nazi
+7. relationship-notifier: https://github.com/Twizzer/relationsh...
+8. better-replies: https://github.com/cyyynthia/better-r...
+9. DM-Typing-Indicator: https://github.com/Litleck/DM-Typing-...
+10. Rejoin-VC: https://github.com/TheShadowGamer/Rej...
+11. invisible-chat: https://github.com/SammCheese/invisib...
+12. Privacy-Tab: https://github.com/E-boi/Privacy-Tab
+13. powercord-ownertag: https://github.com/Puyodead1/powercor...
+
+This is everything that im reeally excited abvout that i haven't been excited about anything for many many years seems like this thing that is BANNABLE FROM DIScord.
+
+It gives me great joy.
